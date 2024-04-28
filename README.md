@@ -4,11 +4,17 @@
 Aquí hay un poco más sobre mí:
 
 Tecnologías principales:
+
 Java 17
+
 Spring Boot
+
 MySQL
+
 MongoDB
+
 Desarrollo de API RESTful
+
 Mi objetivo trabajar en proyectos desafiantes y colaborar con equipos diversos para lograr resultados excepcionales. Siempre estoy buscando aprender nuevas habilidades y mejorar mis conocimientos técnicos. ¡No dudes en contactarme si quieres colaborar en algún proyecto emocionante!
 
 
