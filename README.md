@@ -1,6 +1,10 @@
 # 💫 About Me:
 ¡Hola! Soy Santiago, un apasionado desarrollador de BackEnd de Colombia. Mi principal objetivo es crear soluciones innovadoras y eficientes utilizando las últimas tecnologías. Aquí hay un poco más sobre mí:
 
+
+
+
+
 Tecnologías principales:
 Java 17
 Spring Boot
