@@ -1,8 +1,11 @@
 # 💫 About Me:
 Hello! I'm Santiago, a passionate BackEnd developer from Colombia. My main objective is to create innovative and efficient solutions using the latest technologies.
 
-![]([ruta/a/la/imagen.jpg](https://github.com/zapatac2312/zapatac2312/blob/main/1_aXe6MaOyhdIP5WqdPHhSFw.png
-)
+<p align="center">
+	<a href="https://github.com/Bouaskaoun">
+		<img src="[https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20thing](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*aXe6MaOyhdIP5WqdPHhSFw.png)&center=true&width=380&height=45">
+	</a>
+</p>
 
   🔭 I’m currently working with Java and using spring boot for web develoment
   
