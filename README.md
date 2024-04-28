@@ -2,19 +2,16 @@
 Hello! I'm Santiago, a passionate BackEnd developer from Colombia. My main objective is to create innovative and efficient solutions using the latest technologies.
 
 <p align="center">
-	<a href="https://github.com/Bouaskaoun">
-		<img src="[https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20thing](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*aXe6MaOyhdIP5WqdPHhSFw.png)&center=true&width=380&height=45">
-	</a>
+  <img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*aXe6MaOyhdIP5WqdPHhSFw.png" alt="Santiago's Image">
 </p>
 
-  🔭 I’m currently working with Java and using spring boot for web develoment
-  
-  🤝 I’m looking for help with clean code and good practices
-  
-  🌱 I’m currently learning SpringSecurity JWT.
-  
-  💬 Ask me about anything and I will be happy to answer.
+🔭 I’m currently working with Java and using spring boot for web develoment
 
+🤝 I’m looking for help with clean code and good practices
+
+🌱 I’m currently learning SpringSecurity JWT.
+
+💬 Ask me about anything and I will be happy to answer.
 
 
 ## 🌐 Socials:
