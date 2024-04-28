@@ -2,7 +2,7 @@
 Hello! I'm Santiago, a passionate BackEnd developer from Colombia. My main objective is to create innovative and efficient solutions using the latest technologies.
 
 <p align="center">
-  <img src="[https://miro.medium.com/v2/resize:fit:4800/format:webp/1*aXe6MaOyhdIP5WqdPHhSFw.png](https://blog.danielpadua.dev/assets/img/posts/java-spring-boot-intellij-idea/featured.png)" alt="Santiago's Image" width="300">
+  <img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*aXe6MaOyhdIP5WqdPHhSFw.png" alt="Santiago's Image" width="300">
 </p>
 
 🔭 I’m currently working with Java and using spring boot for web develoment
