@@ -1,13 +1,10 @@
 # 💫 About Me:
 Hello! I'm Santiago, a passionate BackEnd developer from Colombia. My main objective is to create innovative and efficient solutions using the latest technologies.
 
-🔭 I’m currently working with Java and using spring boot for web develoment
-
-🤝 I’m looking for help with clean code and good practices
-
-🌱 I’m currently learning Web develoment and Data bases.
-
-💬 Ask me about anything and I will be happy to answer.
+  🔭 I’m currently working with Java and using spring boot for web develoment
+  🤝 I’m looking for help with clean code and good practices
+  🌱 I’m currently learning Web develoment and Data bases.
+  💬 Ask me about anything and I will be happy to answer.
 
 Here's a little more about me:
 
