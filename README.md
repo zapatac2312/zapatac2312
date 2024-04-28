@@ -1,6 +1,9 @@
 # 💫 About Me:
 Hello! I'm Santiago, a passionate BackEnd developer from Colombia. My main objective is to create innovative and efficient solutions using the latest technologies.
 
+![]([ruta/a/la/imagen.jpg](https://github.com/zapatac2312/zapatac2312/blob/main/1_aXe6MaOyhdIP5WqdPHhSFw.png
+)
+
   🔭 I’m currently working with Java and using spring boot for web develoment
   
   🤝 I’m looking for help with clean code and good practices
