@@ -2,10 +2,10 @@
 Hello! I'm Santiago, a passionate BackEnd developer from Colombia. My main objective is to create innovative and efficient solutions using the latest technologies.
 
 <p align="center">
-  <img src="[https://miro.medium.com/v2/resize:fit:4800/format:webp/1*aXe6MaOyhdIP5WqdPHhSFw.png](https://media.licdn.com/dms/image/C5612AQEzIUKfbUUNWw/article-cover_image-shrink_720_1280/0/1640701919659?e=1720051200&v=beta&t=nDPAF4D0AcNVC9upmpt4ZHgJ0QN-2m_b9-M3ZvpTFTo)" alt="Santiago's Image" width="300">
+  <img src="https://media.licdn.com/dms/image/C5612AQEzIUKfbUUNWw/article-cover_image-shrink_720_1280/0/1640701919659?e=1720051200&v=beta&t=nDPAF4D0AcNVC9upmpt4ZHgJ0QN-2m_b9-M3ZvpTFTo" alt="Santiago's Image" width="400">
 </p>
 
-🔭 I’m currently working with Java and using spring boot for web develoment
+🔭 I’m currently working with Java and using spring boot for web development
 
 🤝 I’m looking for help with clean code and good practices
 
