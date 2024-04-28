@@ -1,9 +1,7 @@
 # 💫 About Me:
-¡Hola! Soy Santiago, un apasionado desarrollador de BackEnd de Colombia. Mi principal objetivo es crear soluciones innovadoras y eficientes utilizando las últimas tecnologías. Aquí hay un poco más sobre mí:
+¡Hola! Soy Santiago, un apasionado desarrollador de BackEnd de Colombia. Mi principal objetivo es crear soluciones innovadoras y eficientes utilizando las últimas tecnologías. 
 
-
-
-
+Aquí hay un poco más sobre mí:
 
 Tecnologías principales:
 Java 17
@@ -26,9 +24,6 @@ Mi objetivo trabajar en proyectos desafiantes y colaborar con equipos diversos p
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=zapatac2312&icon=2&color=0)](https://visitcount.itsvg.in)
