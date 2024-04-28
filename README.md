@@ -2,7 +2,7 @@
 Hello! I'm Santiago, a passionate BackEnd developer from Colombia. My main objective is to create innovative and efficient solutions using the latest technologies.
 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/C5612AQEzIUKfbUUNWw/article-cover_image-shrink_720_1280/0/1640701919659?e=1720051200&v=beta&t=nDPAF4D0AcNVC9upmpt4ZHgJ0QN-2m_b9-M3ZvpTFTo" alt="Santiago's Image" width="400">
+  <img src="https://media.licdn.com/dms/image/C5612AQEzIUKfbUUNWw/article-cover_image-shrink_720_1280/0/1640701919659?e=1720051200&v=beta&t=nDPAF4D0AcNVC9upmpt4ZHgJ0QN-2m_b9-M3ZvpTFTo" alt="Santiago's Image">
 </p>
 
 🔭 I’m currently working with Java and using spring boot for web development
